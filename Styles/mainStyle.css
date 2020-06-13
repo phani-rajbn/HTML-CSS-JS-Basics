@@ -1,0 +1,39 @@
+.main{
+	display:block;	
+	max-width: 600px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: blue;
+}
+
+.content{
+
+}
+
+.menu{
+	position: fixed; width: 100%; display:block; background-color: lightblue;
+	color:blue; margin: 5px; padding: 5px; text-align: center;
+}
+
+.section1{
+	position: absolute;
+	top: 70px;
+}
+
+.childsection{
+	height: 300px
+	width:200px;
+	background-color: yellow;
+	display: block;
+}
+.footer{
+	margin-top: 600px; top:600px; left:0;
+	position: fixed; width: 100%; display: block; background-color: blue;
+	color:lightblue; margin: 5px; padding: 5px; text-align: center;	
+}
+
+img{
+	float: right;
+	margin-right: 50px;	
+	height: 150px;
+}
