@@ -7,3 +7,20 @@ User interactive Functions:
 alert is a function used to display pop-up messages in the HTML document.
 prompt is a function used to display a question and take input as answer to the question. This function returns a value that U can store in a variable. 
 document.write is a function used to display messages directly to the HTML document instead of a pop-up window. 
+
+13/6
+How to store data that user enters?
+Non changable data.(Constants)
+How to display the data with our static Text. 
+Create a Math Calculator. 
+
+
+User enters the data in the form of prompt or Forms. HTML Forms do have tags which will allow the user to enter inputs into the Tags. 
+These data are stored inside our programs so that we can use them whenever we want. This storage points are called variables. 
+
+let keyword is used to declare a variable and store data in it.
+variable is something that is used to store a value which can be modified later. It is not wrong to use the same variable again and again but it will replace the old value while U set a new value to it. To retain all values we need to create different variables. let can be used once for a given variable. 
+
+const is used only on those data that is not intended to modify. 
+
+all the data entered by the user will be strings. to convert a string to a number value we use a function called parseInt. 

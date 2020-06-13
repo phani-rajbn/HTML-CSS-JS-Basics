@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Variables</title>
+</head>
+<body>
+	<script>
+		const v1 = prompt("Enter the First Value");//string
+		const v2 = prompt("Enter the Second Value");
+		let res = parseInt(v1) + parseInt(v2);//we will convert the string value to a number and then we add. else + will combine the strings...
+
+		
+		document.write("The Sum is " + res + "<br/>")
+		res = v1 -v2;//subtraction
+		document.write("The Difference is " + res+ "<br/>")
+		res = v1 * v2;//multiplication
+		document.write("The Product is " + res + "<br/>")
+		res = v1 /v2;
+		document.write("The quotient is " + res+ "<br/>")
+		let content ="<h1>Welcome to JS Programming</h1>";
+		//consts dont change the value...
+		document.write(content);
+		content ="Testing 123";
+		document.write(content);
+	</script>
+</body>
+</html>
