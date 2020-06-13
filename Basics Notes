@@ -1,0 +1,77 @@
+What is Internet?
+Internet is something that allows people to connect to different computers and interact with each other like sharing files, data, media and many more. 
+Why U need internet?
+Share the information from any place in the world. 
+Its a source of a lot of information for educational purposes. 
+Enables fast transfer of news and incidents across the world to the people. 
+Communication purposes among a group of people which almost replaces telephone. 
+Without internet, the world will be almost dead slow. 
+Buy things with amazon(E-Commerce).
+
+What is HTTP?
+Hyper Text Transfer protocol(HTTP) is a system by which computers talk to each other across the world wide web. It is used by the computers to ask the webservers to send the contents of a webp age and to submit any inputs thro online forms. HTTP is used by the internet to communicate with one another. We use HTTP to communicate with Internet. This will provide a std way for the people to share or talk to each other. 
+Protocol means a set of rules upon which the transfer of the text happens from one computer to another.
+Hyper-Text means text or document that is linked to related meterial using links, These text information is transfered using the set of rules defined is what HTTP is about.  
+
+What is a Web site?
+It is a collection of documents or web pages which contain text, multi media files(videos, audio, images) and links to other documents. In most cases, the documents are related to one another and links are provided in every document to navigate within the website. All the contents of this collection are accessed using a common user friendly name called domain(www.msn.com, www.flipkart.com)  and are located in a sp machcine called Server. People access the website using Http and view it thro Browser.
+To work with internet: Web site created and saved inside a sp machine called Web server. A Browser which people like U and me use to access the website. An HTTP protocol thro which this communication happens.
+
+What is this server? This is also called as WEB SERVER. A web server is a software that is installed in the location where the pages of UR website are stored. The software job is to save the pages and its data in a raw format. When people request for a certain page(browser), it will take all these raw meterials, put them in an order and give it back to the person who has requested it. The order is defined using a simple language called HTML. The contents are placed inside HTML Documents. HTML is a way of creating Web pages for users to view them thro internet. 
+     
+What is a browser?
+A browser is a software that is used to access the internet and view the web pages that U requesgt . Browser is a part of every electronic gadget that uses internet in it. Every OS installed in the machine will have a default browser. Smart phones have browser like Chrome, Windows PC will have EDGE or Internet Explorer, Mac machines have Safari.
+The primary functionality of any browser is to use HTTP to find the website, and give back the HTML document which will be displayed. 
+
+How to store these web pages? 
+Web pages are stored inside a website. A web site will be hosted inside a dedicated Server computer  called Web server.
+Domain and Hosting location
+Domain is basically a unique text or name that is identified across the globe in the world of internet. This name is  one and only one of that kind in the internet. usually these domain names are registered with a company calle Domain Registars who will ensure that UR domain is unique for a certain period of time, say 1 year or more for which U pay them. The price of a domain typically runs b/w $20 to $30. godaddy.com will give U domain name which U must register.
+
+Hosting part: Once U create UR pages using HTML, these pages are saved into a folder and then push this pages into a Hosting environment. Hosting Environment is the place where UR pages are stored 
+and are mapped to the domain. 
+
+Website: Collection of Web pages. Web pages are documents written in HTML. HTML is a simple computer language which is used to create Web Pages. 
+
+Important tags of HTML:
+h1: For heading within the html document
+h1 to h6 for various sizes in the headings of the doc.
+hr stands for horizontal rule. 
+br stands for break in a line. When U use this tag, it breaks the current line and the rest of the content will move to the next line. 
+<p> Tag provides a paragraph within an HTML document. This will create an new paragraph and content will be placed within the paragraph.
+<title> tag is used to set the title of the HTML document.
+Title will always a part of the head section of the document. 
+Contents that U display will be in the body segment of the document.
+<div> tag is used to divide the page into sections. U can make horizontal sections as well as vertical sections. To make the sections vertical, U should use Styles. 
+
+Linking the pages that we develop?
+HTML uses hyperlinks to connect the pages within a Website. These links are created using HTML Tag called <a>. a stands for Anchor tag.
+<a href="Path of the file">Text for the Link</a> 
+href stands for hyperlink reference. This is called as Attributes in HTML...
+href will take the path of the file that U want to display. If the file is in the same folder, then U simply need to give the name of the file with the extension.
+
+How to add Pics to Ur HTML doc?
+HTML uses a tag called <img> with attribute called src. This will allow the page to set the image in it. 
+
+How to create Lists?
+There are 2 types of Lists: Un-Ordered and Ordered Lists.
+Unordered lists are basically bulleted lists where there is no order in the content and will be displayed as we type them. 
+In ordered list, there will be numbering of the List items in the order either alphabetically, numerically or roman numbers. 
+Important Tags:
+<ol> for Ordered  Listing
+<ul> for unordered Listing
+Every item in the list will have a tag <li>
+Note that every tag in the list must have an end tag, else it will continue to be in the same item. 
+
+How to create Tables?
+<table> tag is used to create a Table in HTML. 
+Every Table will have <tr> which means Table Row.
+Each row will have columns represented as <th> or <td>
+<th> is for table headings and <td> is for table data. Regular content will come into <td>.
+table tag has an attribute called border which can have 0 or 1 as value. border with 1 is bordered table. If the border value is 0 then there will be no border to UR table.  
+
+
+
+
+
+
