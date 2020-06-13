@@ -1,0 +1,9 @@
+Javascript is a simple programming language that is used to create small programming logic inside web pages. The programming languages written in web pages are called as Scripting languages. 
+Javascript is executed inside the browser where the pages are displayed. Hense its called as Client side scripting language. 
+
+Programs of JS can be embedded into web pages using <script> tag and must be ended with </script> tag. U can include the script tag where ever U want. However we recommend to use <script> only in  <head> section of the web page. 
+
+User interactive Functions:
+alert is a function used to display pop-up messages in the HTML document.
+prompt is a function used to display a question and take input as answer to the question. This function returns a value that U can store in a variable. 
+document.write is a function used to display messages directly to the HTML document instead of a pop-up window. 
